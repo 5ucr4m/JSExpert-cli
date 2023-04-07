@@ -1,0 +1,10 @@
+{
+  "name": "@5ucr4m/cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "5ucr4m",
+  "license": "ISC"
+}
